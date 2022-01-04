@@ -1,0 +1,170 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.container{
+    clear:both;
+    overflow:auto;
+}
+  
+nav{
+    margin: 10px;
+    float:right;
+    padding-right: 200px;
+    
+}
+  
+.logo img{
+    float:left;
+    margin: 15px;
+    padding-left: 150px;
+    padding-top: 5px;
+}
+  
+  ul li{
+    display: inline-block; 
+    font-size:24px; 
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 30px;
+    font-weight: 600px;
+    color: #0a0a0a;
+    
+}
+
+.bgimage .text{
+	position:relative;
+	text-align:center;
+	margin-top: -380px;
+	color:#ffffff;
+	font-size:26px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about1{
+	left:50px;
+	position:relative;
+	width: 50%;
+	bottom:35px;
+	display:inline-block;
+}
+.about2{
+	float:right;
+	position:relative;
+	width: 50%;
+	bottom:35px;
+	
+}
+.about1 p{
+    opacity: 0.5;
+}
+.about2 p{
+    margin-left: 15px;
+    text-align: left;
+    opacity: 0.5;
+    
+}
+#awards{
+    background-color:#F8F9F9;
+}
+
+.awards h3,p{
+	text-align:center;
+}
+.awards p{
+	font-size:90%;
+    opacity: 0.5;
+    line-height: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 2px;
+}
+.awards h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 4px;
+    text-decoration: underline;
+    text-underline-offset: 1em;
+}
+
+.award1{
+		position:relative;
+		left:50px;
+		display:inline-block;
+}
+.award2{
+		position:relative;
+		left:90px;
+		display:inline-block;
+}
+.award3{
+		position:relative;
+		left:100px;
+		bottom: 24px;
+		display:inline-block;
+}
+.award4{
+		position:relative;
+		left:120px;
+		display:inline-block;
+        bottom: 4px;
+}
+#contact{
+    background-color:#F8F9F9;
+}
+.form{
+	width:50%;
+	display:inline-block;
+    position:relative;
+	left:70px;
+}
+.locations{
+	width:50%;
+    float:right;
+	position:relative;
+	
+    top: -20px;
+    background-color:#F8F9F9;
+}
+.locations h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info p{
+    bottom: 50px;
+    padding-left: 20px;
+    opacity: 0.6;
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: inline-block;
+}
+.info img{
+    opacity: 0.5;
+}
+.getintouch{
+    background-color:#F8F9F9;
+	height:870px;
+}
+footer{
+	background-color:#139139;
+	height:100px;
+}
+.footer_text{
+	left:100px;
+	display:inline-block;
+	position:relative;
+	left:350px;top:15px;
+	color:#ffffff;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footer_image{
+	float:right;
+	
+	position:relative;
+	right:200px;
+}
+.scroll{
+    position: absolute;
+    float: right;
+    margin-top: 15px;
+    margin-left: 1270px;
+    
+}
